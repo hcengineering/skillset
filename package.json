@@ -1,0 +1,26 @@
+{
+  "name": "@anticrm/skillset",
+  "version": "0.6.0",
+  "description": "A code to map individual skills to Categories",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src",
+    "lint:fix": "eslint --fix src"
+  },
+  "author": "Anticrm Platform Authors",
+  "license": "EPL-2.0",
+  "devDependencies": {
+    "typescript": "^4.5.5",
+    "@tsconfig/node16": "^1.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard-with-typescript": "^21.0.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "@rushstack/heft": "^0.44.2"
+  }
+}
