@@ -2,12 +2,13 @@
   "name": "@anticrm/skillset",
   "version": "0.6.0",
   "description": "A code to map individual skills to Categories",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src",
-    "lint:fix": "eslint --fix src"
+    "lint:fix": "eslint --fix src",
+    "postinstall": "tsc --outDir ./lib"
   },
   "author": "Anticrm Platform Authors",
   "license": "EPL-2.0",
