@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:backend',
   label: 'Backend development',
-  skils: [
+  skills: [
     'Spring',
     'Java',
     'Hibernate',
@@ -11,10 +11,6 @@ const category: SkillCategory = {
     'Kubernetes',
     'Websocket',
     'Docker',
-    'MongoDB',
-    'ElasticSearch',
-    'LogStash',
-    'PostgreSQL',
     'RabbitMQ',
     'Kafka',
     'Zookeeper',
@@ -32,12 +28,10 @@ const category: SkillCategory = {
     'Java EE',
     'Cloud Computing',
     'MicroServices',
-    'Redis',
     'API',
     'XML',
     'JSON',
     'REST',
-    'MYSQL',
     'NodeJS',
     'Kibana',
     'Cluster',
@@ -55,7 +49,17 @@ const category: SkillCategory = {
     'Jetty',
     'Wicket',
     'Ant',
-    'Ivy'
+    'Ivy',
+    'ASP.NET',
+    'Unix',
+    'Services',
+    'JSP',
+    'Amazon',
+    'Django',
+    'Servlets',
+    'JVM',
+    'CUDA',
+    'OpenCL'
   ]
 }
 export default category

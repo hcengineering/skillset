@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:webdev',
   label: 'Web Development',
-  skils: [
+  skills: [
     'Adobe',
     'Angular',
     'ASP.Net Web API',
@@ -11,6 +11,7 @@ const category: SkillCategory = {
     'CMS',
     'Content Management Systems',
     'CSS',
+    'CSS3',
     'Debugging',
     'Eslint',
     'Graphic User Interfaces',
@@ -33,7 +34,10 @@ const category: SkillCategory = {
     'TS',
     'Typescript',
     'Vue',
-    'Wordpress'
+    'Wordpress',
+    'AJAX',
+    'AngularJS',
+    'vue.js'
   ]
 }
 export default category

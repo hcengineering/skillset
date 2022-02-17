@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:mobile',
   label: 'Mobile Development',
-  skils: [
+  skills: [
     'Android',
     'ARM',
     'iOS',

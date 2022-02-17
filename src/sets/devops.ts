@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:devops',
   label: 'DevOps',
-  skils: [
+  skills: [
     'Ansible',
     'Automation QA',
     'Automation',
@@ -28,7 +28,15 @@ const category: SkillCategory = {
     'Subversion',
     'SVN',
     'Terraform',
-    'CI/CD'
+    'CI/CD',
+    'Mercurial',
+    'Администрирование',
+    'Scripting',
+    'Ubuntu',
+    'Tortoise',
+    'Debian',
+    'FreeBSD',
+    'Unix'
   ]
 }
 export default category

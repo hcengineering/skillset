@@ -11,10 +11,12 @@ import management from './sets/management'
 import marketing from './sets/marketing'
 import mobile from './sets/mobile'
 import networking from './sets/networking'
-import languages from './sets/programming-lang'
+import languages from './sets/languages'
 import quality from './sets/quality'
 import sales from './sets/sales'
 import soft from './sets/soft'
+import databases from './sets/databases'
+import desktop from './sets/desktop'
 
 export * from './types'
 
@@ -40,6 +42,8 @@ export function getCategories (): SkillCategory[] {
     sales,
     soft,
     sales,
-    soft
+    soft,
+    databases,
+    desktop
   ]
 }

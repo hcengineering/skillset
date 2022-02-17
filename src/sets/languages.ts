@@ -3,9 +3,11 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:programming-languages',
   label: 'Programming Languages',
-  skils: [
+  skills: [
     'Python',
     'C',
+    'C/C++',
+    '.NET',
     'Java',
     'C++',
     'C#',
@@ -55,7 +57,9 @@ const category: SkillCategory = {
     'Bash',
     'RPG',
     'ML',
-    'Oracle PL/SQL'
+    'Oracle PL/SQL',
+    'XSLT',
+    'Erlang'
   ]
 }
 export default category

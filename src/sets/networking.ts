@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:networking',
   label: 'Networking',
-  skils: [
+  skills: [
     'GRE',
     'L2',
     'L3',
@@ -15,7 +15,10 @@ const category: SkillCategory = {
     'Wireshark',
     'WXLan',
     'SNTP',
-    'SNMP'
+    'SNMP',
+    'Cisco',
+    'TCP/IP',
+    'Network'
   ]
 }
 export default category

@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:sales',
   label: 'Sales',
-  skils: [
+  skills: [
     'Buyer engagement',
     'Buyer-Responsive selling',
     'Closing',

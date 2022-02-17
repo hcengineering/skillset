@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:hard',
   label: 'Hard Skills',
-  skils: [
+  skills: [
     'Agile Development',
     'Analysis',
     'Backend',
@@ -23,7 +23,19 @@ const category: SkillCategory = {
     'UI',
     'UX',
     'Web design',
-    'Web Development'
+    'Web Development',
+    'Design',
+    'Engineering',
+    'Programming',
+    'Programming languages',
+    'Разработка',
+    'Databases',
+    'Architecture',
+    'Networking',
+    'Software',
+    'Design',
+    'Web',
+    'Embedded'
   ]
 }
 export default category

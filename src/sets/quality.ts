@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:quality',
   label: 'Quality Assurance',
-  skils: [
+  skills: [
     'Bug reporting',
     'Bug tracking systems',
     'Bug tracking',
@@ -19,7 +19,9 @@ const category: SkillCategory = {
     'Test cases',
     'TestRail',
     'Регресcионное тестирование',
-    'Функциональное тестирование'
+    'Функциональное тестирование',
+    'Test',
+    'Quality'
   ]
 }
 export default category

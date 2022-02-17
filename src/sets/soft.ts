@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:soft',
   label: 'Soft Skills',
-  skils: [
+  skills: [
     'Adaptability',
     'Attention to detail',
     'Conflict management',
@@ -14,7 +14,9 @@ const category: SkillCategory = {
     'Productivity & organization',
     'Stress management',
     'Teamwork skills',
-    'Time management'
+    'Time management',
+    'Ответственность',
+    'Leadership'
   ]
 }
 export default category

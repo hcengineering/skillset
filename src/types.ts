@@ -5,5 +5,5 @@
 export interface SkillCategory {
   id: string
   label: string
-  skils: string[]
+  skills: string[]
 }

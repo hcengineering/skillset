@@ -3,7 +3,7 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:bussines-analytics',
   label: 'Bussines analytics',
-  skils: [
+  skills: [
     'Hive',
     'Matlab',
     'STATA',

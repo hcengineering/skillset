@@ -3,13 +3,13 @@ import { SkillCategory } from '../types'
 const category: SkillCategory = {
   id: 'skills:design',
   label: 'Design',
-  skils: [
+  skills: [
     '3D',
     '3dsMax',
     'Active listening',
     'Ad design',
     'Attention to detail & aesthetics',
-    'Autocad',
+    'AutoCAD',
     'Blender',
     'Color sense & theory',
     'Creativity',
@@ -17,6 +17,7 @@ const category: SkillCategory = {
     'Digital printing',
     'Dreamweaver',
     'HTML',
+    'HTML5',
     'Illustrator',
     'InDesign',
     'Infographics',
@@ -32,7 +33,10 @@ const category: SkillCategory = {
     'Typography: spacing, line height, layout, choosing fonts',
     'Usability',
     'Vector',
-    'Adobe Creative Suite'
+    'Adobe Creative Suite',
+    'Bootstrap',
+    'Graphics',
+    'Image'
   ]
 }
 export default category
