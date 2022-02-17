@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src",
     "lint:fix": "eslint --fix src",
-    "postinstall": "tsc --outDir ./lib"
+    "postinstall": "tsc --outDir ./lib --target es2017 --lib es2017"
   },
   "author": "Anticrm Platform Authors",
   "license": "EPL-2.0",
