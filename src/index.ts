@@ -16,6 +16,8 @@ import quality from './sets/quality'
 import sales from './sets/sales'
 import soft from './sets/soft'
 
+export * from './types'
+
 /**
  * Return a set of usefull categories.
  * @returns
