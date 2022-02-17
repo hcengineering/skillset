@@ -59,7 +59,8 @@ const category: SkillCategory = {
     'ML',
     'Oracle PL/SQL',
     'XSLT',
-    'Erlang'
+    'Erlang',
+    'Golang'
   ]
 }
 export default category

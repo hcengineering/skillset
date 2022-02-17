@@ -16,7 +16,8 @@ const category: SkillCategory = {
     'Teamwork skills',
     'Time management',
     'Ответственность',
-    'Leadership'
+    'Leadership',
+    'Ведение переговоров'
   ]
 }
 export default category

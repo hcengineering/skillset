@@ -36,7 +36,10 @@ const category: SkillCategory = {
     'Tortoise',
     'Debian',
     'FreeBSD',
-    'Unix'
+    'Unix',
+    'GitHub',
+    'Vagrant',
+    'TeamCity'
   ]
 }
 export default category

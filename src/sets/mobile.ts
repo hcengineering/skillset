@@ -5,8 +5,12 @@ const category: SkillCategory = {
   label: 'Mobile Development',
   skills: [
     'Android',
+    'Android Developer',
     'ARM',
     'iOS',
+    'Cocoa Touch',
+    'UIKit',
+    'MapKit',
     'iPadOS',
     'Mobile Applications',
     'WatchOS',

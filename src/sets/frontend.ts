@@ -12,6 +12,7 @@ const category: SkillCategory = {
     'Content Management Systems',
     'CSS',
     'CSS3',
+    'sass',
     'Debugging',
     'Eslint',
     'Graphic User Interfaces',
@@ -37,7 +38,13 @@ const category: SkillCategory = {
     'Wordpress',
     'AJAX',
     'AngularJS',
-    'vue.js'
+    'vue.js',
+    'Webpack',
+    'es6',
+    'npm',
+    'DOM',
+    'Wicket',
+    'Redux'
   ]
 }
 export default category

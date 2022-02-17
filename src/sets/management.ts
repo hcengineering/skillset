@@ -39,7 +39,12 @@ const category: SkillCategory = {
     'Проектирование',
     'UML',
     'JIRA',
-    'Requirements'
+    'Requirements',
+    'Kanban',
+    'Работа в команде',
+    'Управление',
+    'Agile Project Management',
+    'Team management'
   ]
 }
 export default category

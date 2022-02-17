@@ -21,7 +21,16 @@ const category: SkillCategory = {
     'OpenMP',
     'Mathematical',
     'Framework',
-    'STL'
+    'STL',
+    'Mining',
+    'Bitcoin',
+    'Криптовалюта',
+    'Cryptocurrency',
+    'Block chain',
+    'Recognition',
+    'CQRS',
+    'Eventsourcing',
+    'Design Patterns'
   ]
 }
 export default category

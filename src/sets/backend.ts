@@ -6,6 +6,7 @@ const category: SkillCategory = {
   skills: [
     'Spring',
     'Java',
+    'JavaSE',
     'Hibernate',
     'Server',
     'Kubernetes',
@@ -59,7 +60,13 @@ const category: SkillCategory = {
     'Servlets',
     'JVM',
     'CUDA',
-    'OpenCL'
+    'OpenCL',
+    'Vaadin',
+    'RESTful',
+    'ProtoBuf',
+    'Memcached',
+    'Glassfish',
+    'SOAP Services'
   ]
 }
 export default category

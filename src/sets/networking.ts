@@ -18,7 +18,10 @@ const category: SkillCategory = {
     'SNMP',
     'Cisco',
     'TCP/IP',
-    'Network'
+    'Network',
+    'DNS',
+    'JAX-RPC',
+    'RPC'
   ]
 }
 export default category

@@ -5,6 +5,7 @@ const category: SkillCategory = {
   label: 'Bussines analytics',
   skills: [
     'Hive',
+    'HBase',
     'Matlab',
     'STATA',
     'SPSS',

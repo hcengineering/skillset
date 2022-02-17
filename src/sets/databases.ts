@@ -16,7 +16,11 @@ const category: SkillCategory = {
     'MS SQL',
     'JDBC',
     'ODBC',
-    'NoSQL'
+    'NoSQL',
+    'FirebirdSQL',
+    'NHibernate',
+    'JPQL',
+    'HQL'
   ]
 }
 export default category

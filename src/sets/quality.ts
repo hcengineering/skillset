@@ -21,7 +21,8 @@ const category: SkillCategory = {
     'Регресcионное тестирование',
     'Функциональное тестирование',
     'Test',
-    'Quality'
+    'Quality',
+    'Selenium IDE'
   ]
 }
 export default category

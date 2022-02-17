@@ -25,7 +25,10 @@ const category: SkillCategory = {
     'Unity3D',
     'Unity',
     'WinForms',
-    'Visual Studio'
+    'Visual Studio',
+    'WTL',
+    'MacOS',
+    'MFC'
   ]
 }
 export default category

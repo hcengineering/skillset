@@ -26,7 +26,17 @@ const category: SkillCategory = {
     'Web analytics',
     'Web scraping',
     'Wordpress',
-    'Data analysis'
+    'Data analysis',
+    'Sass',
+    'Маркетинговый анализ',
+    'Маркетинговые мероприятия',
+    'Анализ рынка',
+    'Анализ конкурентов',
+    'Вывод новых продуктов на рынок',
+    'Ведение переговоров с контрагентами',
+    'Ведение и расширение клиентской базы',
+    'Владение техникой продаж',
+    'Banking Software'
   ]
 }
 export default category

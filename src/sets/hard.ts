@@ -35,7 +35,9 @@ const category: SkillCategory = {
     'Software',
     'Design',
     'Web',
-    'Embedded'
+    'Embedded',
+    'Development',
+    'Software Development'
   ]
 }
 export default category
