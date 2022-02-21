@@ -7,8 +7,7 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src",
-    "lint:fix": "eslint --fix src",
-    "postinstall": "tsc --outDir ./lib --target es2017 --lib es2017"
+    "lint:fix": "eslint --fix src"
   },
   "author": "Anticrm Platform Authors",
   "license": "EPL-2.0",
